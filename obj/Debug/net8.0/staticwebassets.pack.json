@@ -5,12 +5,252 @@
       "PackagePath": "staticwebassets/LetterToSelf.bundle.scp.css"
     },
     {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/css/flex-slider.css",
+      "PackagePath": "staticwebassets/assets/css/flex-slider.css"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/css/font-awesome.css",
+      "PackagePath": "staticwebassets/assets/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/css/owl-carousel.css",
+      "PackagePath": "staticwebassets/assets/css/owl-carousel.css"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/css/templatemo-lava.css",
+      "PackagePath": "staticwebassets/assets/css/templatemo-lava.css"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/Flaticon.woff",
+      "PackagePath": "staticwebassets/assets/fonts/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/assets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/flexslider-icon.eot",
+      "PackagePath": "staticwebassets/assets/fonts/flexslider-icon.eot"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/flexslider-icon.svg",
+      "PackagePath": "staticwebassets/assets/fonts/flexslider-icon.svg"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/flexslider-icon.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/flexslider-icon.ttf"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/flexslider-icon.woff",
+      "PackagePath": "staticwebassets/assets/fonts/flexslider-icon.woff"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/slick.eot",
+      "PackagePath": "staticwebassets/assets/fonts/slick.eot"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/slick.svg",
+      "PackagePath": "staticwebassets/assets/fonts/slick.svg"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/slick.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/slick.ttf"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/fonts/slick.woff",
+      "PackagePath": "staticwebassets/assets/fonts/slick.woff"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/images/about-icon-01.png",
+      "PackagePath": "staticwebassets/assets/images/about-icon-01.png"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/images/about-icon-02.png",
+      "PackagePath": "staticwebassets/assets/images/about-icon-02.png"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/images/about-icon-03.png",
+      "PackagePath": "staticwebassets/assets/images/about-icon-03.png"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/images/banner-bg.png",
+      "PackagePath": "staticwebassets/assets/images/banner-bg.png"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/images/features-icon-1.png",
+      "PackagePath": "staticwebassets/assets/images/features-icon-1.png"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/images/features-icon-2.png",
+      "PackagePath": "staticwebassets/assets/images/features-icon-2.png"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/images/features-icon-3.png",
+      "PackagePath": "staticwebassets/assets/images/features-icon-3.png"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/images/footer-bg.png",
+      "PackagePath": "staticwebassets/assets/images/footer-bg.png"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/images/left-bg-decor.png",
+      "PackagePath": "staticwebassets/assets/images/left-bg-decor.png"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/images/left-image.png",
+      "PackagePath": "staticwebassets/assets/images/left-image.png"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/images/right-bg-decor.png",
+      "PackagePath": "staticwebassets/assets/images/right-bg-decor.png"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/js/custom.js",
+      "PackagePath": "staticwebassets/assets/js/custom.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/js/imgfix.min.js",
+      "PackagePath": "staticwebassets/assets/js/imgfix.min.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/js/jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/js/jquery.counterup.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.counterup.min.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/js/owl-carousel.js",
+      "PackagePath": "staticwebassets/assets/js/owl-carousel.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/js/popper.js",
+      "PackagePath": "staticwebassets/assets/js/popper.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/js/scrollreveal.min.js",
+      "PackagePath": "staticwebassets/assets/js/scrollreveal.min.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/assets/js/waypoints.min.js",
+      "PackagePath": "staticwebassets/assets/js/waypoints.min.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/css/bootstrap/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.css"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/css/owl.carousel.min.css"
+    },
+    {
       "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
       "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/fonts/icomoon/Read Me.txt",
+      "PackagePath": "staticwebassets/fonts/icomoon/Read Me.txt"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/fonts/icomoon/demo-files/demo.css",
+      "PackagePath": "staticwebassets/fonts/icomoon/demo-files/demo.css"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/fonts/icomoon/demo-files/demo.js",
+      "PackagePath": "staticwebassets/fonts/icomoon/demo-files/demo.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/fonts/icomoon/fonts/icomoon.eot",
+      "PackagePath": "staticwebassets/fonts/icomoon/fonts/icomoon.eot"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/fonts/icomoon/fonts/icomoon.svg",
+      "PackagePath": "staticwebassets/fonts/icomoon/fonts/icomoon.svg"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/fonts/icomoon/fonts/icomoon.ttf",
+      "PackagePath": "staticwebassets/fonts/icomoon/fonts/icomoon.ttf"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/fonts/icomoon/fonts/icomoon.woff",
+      "PackagePath": "staticwebassets/fonts/icomoon/fonts/icomoon.woff"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/fonts/icomoon/selection.json",
+      "PackagePath": "staticwebassets/fonts/icomoon/selection.json"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/fonts/icomoon/style.css",
+      "PackagePath": "staticwebassets/fonts/icomoon/style.css"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/js/jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets/js/jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/js/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/js/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/js/popper.min.js",
+      "PackagePath": "staticwebassets/js/popper.min.js"
     },
     {
       "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/js/site.js",
@@ -243,6 +483,370 @@
     {
       "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/php/send-email.php",
+      "PackagePath": "staticwebassets/php/send-email.php"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_alert.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_alert.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_badge.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_badge.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_button-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_button-group.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_buttons.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_card.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_card.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_carousel.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_carousel.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_close.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_close.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_code.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_code.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_custom-forms.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_custom-forms.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_dropdown.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_forms.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_forms.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_functions.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_functions.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_grid.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_images.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_images.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_input-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_input-group.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_jumbotron.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_jumbotron.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_list-group.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_media.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_media.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_mixins.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_modal.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_modal.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_nav.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_nav.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_navbar.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_pagination.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_popover.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_popover.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_print.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_print.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_progress.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_progress.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_reboot.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_reboot.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_root.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_root.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_spinners.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_spinners.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_tables.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_tables.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_toasts.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_toasts.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_tooltip.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_transitions.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_transitions.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_type.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_type.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_utilities.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/_variables.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_variables.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/bootstrap.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_background-variant.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_background-variant.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_badge.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_badge.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_float.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_float.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_grid-framework.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_grid-framework.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_hover.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_hover.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_image.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_nav-divider.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_nav-divider.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_screen-reader.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_size.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_size.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_table-row.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_table-row.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_text-emphasis.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_text-emphasis.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_text-hide.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_text-hide.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/mixins/_visibility.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_visibility.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_align.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_align.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_background.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_background.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_borders.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_borders.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_display.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_display.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_embed.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_embed.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_flex.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_flex.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_float.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_float.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_overflow.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_overflow.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_position.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_position.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_screenreaders.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_screenreaders.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_shadows.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_shadows.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_sizing.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_sizing.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_spacing.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_spacing.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_stretched-link.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_text.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_text.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/utilities/_visibility.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_visibility.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/bootstrap/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/LetterToSelf/wwwroot/scss/style.scss",
+      "PackagePath": "staticwebassets/scss/style.scss"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.LetterToSelf.Microsoft.AspNetCore.StaticWebAssets.props",

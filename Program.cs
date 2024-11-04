@@ -8,7 +8,7 @@ public class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
-        builder.Services.AddHangfire(config => config.UseSqlServerStorage("")); 
+        builder.Services.AddHangfire(config => config.UseSqlServerStorage("Server=104.247.162.242\\MSSQLSERVER2019;Initial Catalog=miraykar_letter;User Id=miraykar_letterdbuser;Password=Se87l4?a0;TrustServerCertificate=True")); 
         builder.Services.AddHangfireServer();
 
         // Add services to the container.

@@ -1,9 +1,83 @@
 @{
-    ViewData["Title"] = "Confirmation";
+    Layout = null;
 }
 
-<div class="confirmation-container; text-center">
-    <h1>Mesajınız Başarıyla Gönderildi!</h1>
-    <p>Mesajınız belirtilen tarihte e-posta adresinize gönderilecektir.</p>
-    <a href="/">Ana Sayfaya Dönmek için tıklayınız.</a>
+@{
+    ViewData["Title"] = "Onay";
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <div class="card">
+        <h1>Onay</h1>
+        <p>Mesajınız yıllar sonra size ulaştırılmak için fırlatıldı!</p>
+        <button id="returnButton">Anasayfaya Dön</button>
+    </div>
 </div>
+
+<script src="script.js"></script>
+</body>
+</html>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .container {
+        width: 100%;
+        max-width: 600px;
+    }
+
+    .card {
+        padding: 20px;
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+
+    h1 {
+        color: #f1556a;
+    }
+
+    p {
+        font-size: 18px;
+        margin: 20px 0;
+    }
+
+    button {
+        padding: 10px 20px;
+        background-color: #f1556a;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background 0.3s;
+    }
+
+    button:hover {
+        background-color: #d1445b;
+    }
+</style>
+
+<script>
+    document.getElementById('returnButton').addEventListener('click', function() {
+        window.location.href = '/';
+    });
+</script>

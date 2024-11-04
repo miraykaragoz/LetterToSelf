@@ -1,6 +1,10 @@
 @model FutureMessage
 
 @{
+    Layout = null;
+}
+
+@{
     ViewData["Title"] = "Mektup Gönder";
 }
 
@@ -11,103 +15,85 @@
     </div>
 }
 
-<div class="card">
-    <div class="card-body">
-        <form asp-action="SendLetter" id="letterForm">
-            <div class="form-group">
-                <label for="message">Mesaj:</label>
-                <textarea type="text" id="message" name="Message" autocomplete="off" required></textarea>
+<!doctype html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/fonts/icomoon/style.css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+<div class="content">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-10">
+                <div class="row align-items-center">
+                    <div class="col-lg-7 mb-5 mb-lg-0">
+                        <h2 class="mb-5">Mektubunu <br> Geleceğe ışınla. 🚀</h2>
+                        <form class="border-right pr-5 mb-5" asp-action="SendLetter" id="letterForm">
+                            <div class="row">
+                                <div class="col-md-12 form-group">
+                                    <textarea class="form-control" name="Message" cols="30" rows="7" placeholder="Mesaj" required></textarea>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 form-group">
+                                    <input type="email" class="form-control" name="Email" placeholder="E-Posta Adresi" required>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 form-group">
+                                    <input type="date" class="form-control" name="SendDate" min="@DateTime.Now.ToString("yyyy-MM-dd")" placeholder="Gönderilecek Tarih" required>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <input type="submit" value="Mektup Gönder"
+                                           class="btn btn-primary rounded-0 py-2 px-4 g-recaptcha"
+                                           data-sitekey=""
+                                           data-callback="onSubmit"
+                                           data-action="submit">
+                                    <span class="submitting"></span>
+                                </div>
+                            </div>
+                        </form>
+                        <div id="form-message-warning mt-4"></div>
+                        <div id="form-message-success">
+                            Mektubunuz geleceğe ışınlandı! Görüşmek üzere 💌
+                        </div>
+                    </div>
+                    <div class="col-lg-4 ml-auto">
+                        <h3 class="mb-4">Geleceğe Bir Mektup Bırakın.</h3>
+                        <p>Bugün hissettiklerinizi, düşüncelerinizi ve planlarınızı gelecekteki kendinize hatırlatmak için buraya yazın. Zamanın size ne getireceğini birlikte keşfedin!</p>
+                        <p>
+                            <a href="/">Anasayfaya dön</a>
+                        </p>
+                    </div>
+                </div>
             </div>
-            <br>
-            <div class="form-group">
-                <label for="emailAddress">E-posta:</label>
-                <input type="email" id="emailAddress" name="Email" autocomplete="off" required>
-                <small>Göndereceğin mail'i hangi e-posta adresine göndermek istiyorsan onu girmelisin.</small>
-            </div>
-            <br>
-            <div class="form-group">
-                <label for="sendDate">Gönderim Tarihi:</label>
-                <input type="date" id="sendDate" name="SendDate" required
-                       min="@DateTime.Now.ToString("yyyy-MM-dd")">
-            </div>
-            <button class="g-recaptcha"
-                    data-sitekey=""
-                    data-callback='onSubmit'
-                    data-action='submit'>
-                Mektup Gönder
-            </button>
-        </form>
+        </div>
     </div>
 </div>
 
-<script src="https://www.google.com/recaptcha/api.js"></script>
+<script src="~/js/jquery-3.3.1.min.js"></script>
+<script src="~/js/popper.min.js"></script>
+<script src="~/js/bootstrap.min.js"></script>
+<script src="~/js/jquery.validate.min.js"></script>
+<script src="~/js/main.js"></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
+</body>
+</html>
+
+<script src="https://www.google.com/recaptcha/api.js"></script>
 <script>
     function onSubmit(token) {
-        if (letterForm.reportValidity()) {
+        if (letterForm.reportValidity()){
             letterForm.submit();
         }
     }
-
-    $('.alert').delay(1500).fadeOut();
 </script>
-
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f9f9f9;
-        margin: 0;
-        padding: 20px;
-    }
-
-    .card {
-        background-color: #fff;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        padding: 20px;
-        max-width: 600px;
-        margin: 0 auto;
-        border: 1px solid #ccc;
-    }
-
-    .card-body {
-        padding: 20px;
-    }
-
-    label {
-        display: block;
-        margin-bottom: 5px;
-        font-weight: bold;
-    }
-
-    textarea,
-    input[type="email"],
-    input[type="date"] {
-        width: 100%;
-        padding: 10px;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-        box-sizing: border-box;
-        resize: none;
-    }
-
-    textarea {
-        height: 150px;
-    }
-
-    button {
-        background-color: #007bff;
-        color: white;
-        border: none;
-        padding: 10px 15px;
-        border-radius: 4px;
-        cursor: pointer;
-        font-size: 16px;
-        transition: background-color 0.3s;
-    }
-
-    button:hover {
-        background-color: #0056b3;
-    }
-</style>
