@@ -1,3 +1,3 @@
 LetterToSelf is a web application designed to help users write letters to their future selves, capturing their emotions, goals, and dreams. To handle background tasks, such as scheduling the delivery of these letters on a specific date, I used the Hangfire library. Hangfire allows for reliable background job processing, ensuring that the letters are sent automatically at the designated time. This approach streamlines the entire process, allowing users to receive their letters without any manual intervention. Through this project, I integrated Hangfire’s robust background job management to ensure the timely delivery of personalized messages, providing users with a meaningful way to reflect on their past.
 
-🔗 Yayın linki: https://lettertoself.miraykaragoz.com.tr/
+🔗 Live link: https://lettertoself.miraykaragoz.com.tr/
